@@ -14,6 +14,7 @@ class ImageViewController: UIViewController, UIImagePickerControllerDelegate, UI
     var newphotoArray:[String] = []
     
     @IBOutlet weak var showImage: UIImageView!
+    
     @IBAction func photoButton(_ sender: Any) {
         
         

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		011ED3BB1DFD0F5A00B98A6E /* crrect_answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 011ED3BA1DFD0F5A00B98A6E /* crrect_answer.mp3 */; };
 		013C8B371DF5566100817A83 /* testViewandWillAppearView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C8B361DF5566100817A83 /* testViewandWillAppearView.swift */; };
 		013C8B391DF69C1D00817A83 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C8B381DF69C1D00817A83 /* ImageViewController.swift */; };
 		01960E241DF1626200353857 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01960E231DF1626200353857 /* AppDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		011ED3BA1DFD0F5A00B98A6E /* crrect_answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crrect_answer.mp3; sourceTree = "<group>"; };
 		013C8B361DF5566100817A83 /* testViewandWillAppearView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testViewandWillAppearView.swift; sourceTree = "<group>"; };
 		013C8B381DF69C1D00817A83 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		01960E201DF1626200353857 /* gift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gift.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,6 +65,7 @@
 				01960E251DF1626200353857 /* ViewController.swift */,
 				013C8B361DF5566100817A83 /* testViewandWillAppearView.swift */,
 				01960E271DF1626200353857 /* Main.storyboard */,
+				011ED3BA1DFD0F5A00B98A6E /* crrect_answer.mp3 */,
 				01960E2A1DF1626200353857 /* Assets.xcassets */,
 				01960E2C1DF1626200353857 /* LaunchScreen.storyboard */,
 				01960E2F1DF1626200353857 /* Info.plist */,
@@ -131,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01960E2E1DF1626200353857 /* LaunchScreen.storyboard in Resources */,
+				011ED3BB1DFD0F5A00B98A6E /* crrect_answer.mp3 in Resources */,
 				01960E2B1DF1626200353857 /* Assets.xcassets in Resources */,
 				01960E291DF1626200353857 /* Main.storyboard in Resources */,
 			);
